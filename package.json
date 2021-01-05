@@ -1,0 +1,17 @@
+{
+  "name": "buzzer",
+  "version": "1.2.0",
+  "description": "<p align=\"center\">   <img width=\"400px\" src=\"https://github.com/bufferapp/buzzer/blob/master/public/buzzer-logo.svg?raw=true&sanitize=true\" alt=\"Buzzer\"/> </p>",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Shaan Jain <thecodingtime@gmail.com> (http://localhost:8090/)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.14.1",
+    "pug": "2.0.0-beta11",
+    "socketio": "1.0.0"
+  },
+  "devDependencies": {}
+}
